@@ -22,7 +22,7 @@ dna_c = dna_c.replace("T","a")
 dna_c = dna_c.replace("G","c")
 dna_c = dna_c.replace("C","g")
 dna_c = dna_c.upper()
-print("\ncomplement problem")
+print("\nreverse complement problem")
 print(dna)
 print(dna_c)
 
